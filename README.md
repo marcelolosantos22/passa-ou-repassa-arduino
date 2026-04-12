@@ -30,7 +30,7 @@ Alimentação: Fonte externa de 7V a 12V via conector P4.
 4. Carregue o código da pasta `01_Codigo` para o seu microcontrolador.
 
 ## Equipe de Desenvolvimento
-Orientador: Prof. Marcelo Lima Oliveira Santos.
-Equipe: Ana Carolina Corrêa Silva, Daniel De Lima Lopes, Diogo Damião Correa Silva, Francielly Cristina Pereira, Gabriel Lara dos Santos, Gustavo Stolarz Martins, Igor Gonçalves da Silva Oliveira, João Victor de Morais, Rafaela Costa e Silva, Túlio Cadilhac Zanella, Victor de França Sales, Vinicius André Pinheiro.
+Orientador: Prof. Marcelo Lima Oliveira Santos.  
+Equipe: Ana Carolina Corrêa Silva, Daniel De Lima Lopes, Diogo Damião Correa Silva, Francielly Cristina Pereira, Gabriel Lara dos Santos, Gustavo Stolarz Martins, Igor Gonçalves da Silva Oliveira, João Victor de Morais, Rafaela Costa e Silva, Túlio Cadilhac Zanella, Victor de França Sales, Vinicius André Pinheiro.  
 
 Registro – SP | 2026
