@@ -18,10 +18,10 @@ Lógica de Entrada: Configuração `INPUT_PULLUP` (dispensa resistores externos 
 Alimentação: Fonte externa de 7V a 12V via conector P4.
 
 ## Organização do Repositório
-`/01_Codigo`**: Firmware (.ino) desenvolvido em C++.
-`/02_Arquivos_STL`**: Modelos 3D para impressão dos botões de 29mm.
-`/03_Documentacao`**: Guia completo de montagem, esquemas elétricos e lista de materiais.
-`/04_Imagens`**: Fotos do protótipo finalizado e fluxogramas lógicos.
+01_Codigo: Firmware (.ino) desenvolvido em C++.
+02_Arquivos_STL: Modelos 3D para impressão dos botões de 29mm.
+03_Documentacao: Guia completo de montagem, esquemas elétricos e lista de materiais.
+04_Imagens: Fotos do protótipo finalizado e fluxogramas lógicos.
 
 ## Como Replicar
 1. Monte a estrutura de MDF seguindo as dimensões do manual.
